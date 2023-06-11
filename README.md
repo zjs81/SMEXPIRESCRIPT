@@ -31,7 +31,7 @@ This script allows you to expire the passwords of users in a specific domain. It
 6. The script will display the response for each user's password expiration.
 
 
-Note: Please note that the script has been tested and works with SmarterMail Build 8559. However, use this script at your own risk. It is recommended to test it in a non-production environment before using it in a production setting. The author take no responsibility for any issues or damages caused by the usage of this script.
+Note: Please note that the script has been tested and works with SmarterMail Build 8559. However, use this script at your own risk. It is recommended to test it in a non-production environment before using it in a production setting. The author takes no responsibility for any issues or damages caused by the usage of this script.
 
 
 
