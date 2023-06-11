@@ -1,0 +1,4 @@
+username: admin
+password: systemadminpassword
+url: https://mail.example.com
+domain: targetdomainforexpiration.com
